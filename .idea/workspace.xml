@@ -23,26 +23,32 @@
       <file leaf-file-name="Logs.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Logs.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="24" selection-start="1136" selection-end="1136" vertical-scroll-proportion="-7.7916665">
+            <state line="46" column="24" selection-start="1136" selection-end="1136" vertical-scroll-proportion="-28.75">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Model.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Model.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="8" selection-start="807" selection-end="807" vertical-scroll-proportion="0.4781582">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LogEntries.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="LogEntries.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LogEntries.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="57" selection-start="595" selection-end="595" vertical-scroll-proportion="-10.0">
+            <state line="6" column="0" selection-start="102" selection-end="102" vertical-scroll-proportion="0.10625738">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Model.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="83" column="0" selection-start="3051" selection-end="3051" vertical-scroll-proportion="-19.666666">
+              <folding>
+                <marker date="1359411777755" expanded="true" signature="1862:3163" placeholder="..." />
+                <marker date="1359411777755" expanded="true" signature="1862:1874" placeholder="..." />
+                <marker date="1359411777755" expanded="true" signature="1874:2074" placeholder="..." />
+                <marker date="1359411777755" expanded="true" signature="1874:1994" placeholder="..." />
+                <marker date="1359411777755" expanded="true" signature="2091:3163" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,7 +56,16 @@
       <file leaf-file-name="ProductData.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProductData.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="119" column="28" selection-start="3631" selection-end="3631" vertical-scroll-proportion="-74.375">
+            <state line="83" column="21" selection-start="2397" selection-end="2397" vertical-scroll-proportion="-8.75">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="displayHeader.phtml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/displayHeader.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="6" selection-start="0" selection-end="68" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -77,7 +92,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="34" selection-start="1404" selection-end="1404" vertical-scroll-proportion="-27.416666">
+            <state line="62" column="34" selection-start="1404" selection-end="1404" vertical-scroll-proportion="-38.75">
               <folding />
             </state>
           </provider>
@@ -102,6 +117,7 @@
         <option value="$PROJECT_DIR$/Logs.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/ProductData.php" />
+        <option value="$PROJECT_DIR$/table.php" />
         <option value="$PROJECT_DIR$/LogEntries.php" />
         <option value="$PROJECT_DIR$/Model.php" />
       </list>
@@ -140,7 +156,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -161,11 +176,12 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vendor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../magento" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -194,7 +210,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1539936" sideWeight="0.9688889" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15591054" sideWeight="0.9688889" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -262,18 +278,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DatabaseConnect.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="25" selection-start="2018" selection-end="2018" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/productdata.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.txt">
@@ -288,11 +295,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/displayHeader.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.txt">
@@ -314,23 +316,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="34" selection-start="1404" selection-end="1404" vertical-scroll-proportion="-27.416666">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/displayMonths.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/productdata.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="34" selection-start="1404" selection-end="1404" vertical-scroll-proportion="-38.75">
           <folding />
         </state>
       </provider>
@@ -344,28 +342,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Logs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="24" selection-start="1136" selection-end="1136" vertical-scroll-proportion="-7.7916665">
+        <state line="46" column="24" selection-start="1136" selection-end="1136" vertical-scroll-proportion="-28.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/displayHeader.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="6" selection-start="0" selection-end="68" vertical-scroll-proportion="-0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProductData.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="119" column="28" selection-start="3631" selection-end="3631" vertical-scroll-proportion="-74.375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogEntries.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="57" selection-start="595" selection-end="595" vertical-scroll-proportion="-10.0">
+        <state line="83" column="21" selection-start="2397" selection-end="2397" vertical-scroll-proportion="-8.75">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="8" selection-start="807" selection-end="807" vertical-scroll-proportion="0.4781582">
+        <state line="83" column="0" selection-start="3051" selection-end="3051" vertical-scroll-proportion="-19.666666">
+          <folding>
+            <marker date="1359411777755" expanded="true" signature="1862:3163" placeholder="..." />
+            <marker date="1359411777755" expanded="true" signature="1862:1874" placeholder="..." />
+            <marker date="1359411777755" expanded="true" signature="1874:2074" placeholder="..." />
+            <marker date="1359411777755" expanded="true" signature="1874:1994" placeholder="..." />
+            <marker date="1359411777755" expanded="true" signature="2091:3163" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogEntries.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="102" selection-end="102" vertical-scroll-proportion="0.10625738">
           <folding />
         </state>
       </provider>

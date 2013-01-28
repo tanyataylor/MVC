@@ -11,17 +11,20 @@ class LogEntries extends Model{
         $dataTypes = array();
         $tableName = "log_entries";
         $primaryKey = "log_entry_id";
+        $column = "log_entry_id";
+        $columnFilter = 136;
 
         array_push($arrayOfColumns, $primaryKey, "hour", "remote_addr", "server_name_request_uri", "session_id", "log");
         array_push($dataTypes, "int NOT NULL AUTO_INCREMENT", "varchar(255)", "varchar(255)", "varchar(255)", "varchar(255)", "varchar(255)");
         $arrayOfValues = $this->create_log_entry("Test");
 
-        //$this->createTable($tableName, $arrayOfColumns, $dataTypes, $primaryKey);
+        $this->createTable($tableName, $arrayOfColumns, $dataTypes, $primaryKey);
         $this->insertData($tableName, $arrayOfColumns, $arrayOfValues);
-        //$this->create_log_entry("Test function of create log");
+        $this->getCollection($tableName, $arrayOfColumns);
+        $this->filterByRow($tableName, $arrayOfColumns, $column, $columnFilter);
+
 
     }
-
 
 /* Writing to a file */
     public function create_log_entry($str){
@@ -39,6 +42,10 @@ class LogEntries extends Model{
         fclose($file);
         return $arrayOfValues;
     }
+
+
+
+
 
 
 
